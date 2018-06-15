@@ -12,3 +12,16 @@ body{
 div{
 	width:100%;
 }
+
+.columna1{
+	background:#12A89D;
+}
+
+.columna2{
+	background:#B30F2A;
+	width:40%;
+}
+
+.columna3{
+	background:#1C4583;
+}
