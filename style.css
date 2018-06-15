@@ -1,0 +1,14 @@
+*{
+	margin:0;
+}
+
+body{
+	background:#C3E5F9;
+	color:white;
+	font-size:16px;
+	font-family:Arial;
+}
+
+div{
+	width:100%;
+}
