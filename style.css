@@ -25,3 +25,18 @@ div{
 .columna3{
 	background:#1C4583;
 }
+
+@media screen and (max-width:900px){
+	.columna2{
+		width:70%;
+	}
+	.columna3{
+		width:100%;
+	}
+}
+
+@media screen and (max-width:480px){
+	div{
+		width:100%;
+	}
+}
